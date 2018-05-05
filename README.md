@@ -6,4 +6,5 @@ CNN_VGG16_ver1_adam.ipynb	: Used Adam optimizer=>This was terminated half way bc
 
 CNN_VGG16_version2_SGDoptimizer.ipynb	: Completed all epoch, but bad result. 
 
+You may view the log scores in XXX_logs.csv 
 Still working on this problem.
